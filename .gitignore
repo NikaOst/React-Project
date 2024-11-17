@@ -361,6 +361,8 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
+.DS_Store
+
 
 # Visual Studio History (VSHistory) files
 .vshistory/
