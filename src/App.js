@@ -12,7 +12,6 @@ import { Cart } from './pages/Cart';
 //cmd + shift + z - вернуть отмененное действие
 
 //компоненты только с большой буквы
-
 function App() {
   return (
     <BrowserRouter>
